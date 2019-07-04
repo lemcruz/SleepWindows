@@ -9,5 +9,5 @@ Compile the source code ( with gcc -dorme.c -o dorme ). Put the dorme.exe file i
 and rename it to an intriguing name (i.g. AdminPasswords). Whenever someone tries to open the shortcut the PC will turnoff and the bait counter will be increased by 1.
 
 #Changes 
-A version for linux maybe added in the future. You may change the source code if you want, but please don't commit over this current code.
+A version for linux may be added in the future.
 
